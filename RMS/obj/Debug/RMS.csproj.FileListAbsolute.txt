@@ -1,0 +1,13 @@
+E:\CNOM\CNPM\RMS\bin\Debug\RMS.exe.config
+E:\CNOM\CNPM\RMS\bin\Debug\RMS.exe
+E:\CNOM\CNPM\RMS\bin\Debug\RMS.pdb
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.LoginScreen.resources
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.MDI.resources
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.Properties.Resources.resources
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.Sample.resources
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.Sample2.resources
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.exe
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.pdb
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.csprojAssemblyReference.cache
+E:\CNOM\CNPM\RMS\obj\Debug\RMS.Settings.resources
